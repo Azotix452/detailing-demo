@@ -6,17 +6,17 @@ window.SITE_CONFIG = {
   studioName: "Noir Detailing Studio",
 
   // Телефон для кнопки «Позвонить»: с плюсом, без пробелов
-  phoneLink: "+31600000000",
+  phoneLink: "+375297790410",
   // Как телефон выглядит на странице: можно с пробелами
-  phoneDisplay: "+31 6 0000 0000",
+  phoneDisplay: "+375 29 779 0410",
 
   // WhatsApp: только цифры, без плюса и пробелов
-  whatsapp: "31600000000",
+  whatsapp: "375297790410",
   // Текст, который появится в чате при нажатии на кнопку
   whatsappMessage: "Здравствуйте! Хочу записаться на визит.",
 
-  email: "info@example.nl",
-  address: "Voorbeeldstraat 1, 1000 AA Amsterdam",
+  email: "info@example.by",
+  address: "ул. Сурганова, 86, 220040 Минск, Беларусь",
 
   // Часы работы: [ "дни", "время" ]
   hours: [
